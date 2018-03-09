@@ -1,0 +1,28 @@
+.logo {
+  margin-left: 30px;
+
+  
+}
+
+.nav-wrapper {
+  background-color: #999999;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 70px;
+  align-items: center;
+  
+}
+.container{
+  color:black;
+  display: flex;
+  justify-content: flex-end;
+}
+.material-icons {
+  margin-right: 30px;
+  color: black;
+}
+
+.navButton:hover{
+  cursor: pointer;
+}
